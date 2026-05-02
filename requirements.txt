@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+
+spacy
+sentence-transformers
+torch
+torchvision
+torchaudio
+
+PyPDF2
+python-docx
+
+pydantic
+openai
+google-generativeai
+pymongo
